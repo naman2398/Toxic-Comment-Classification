@@ -36,7 +36,7 @@ The dataset used for this project is the [Toxic Comment Classification Dataset](
 
 ### 4. Model Training and Evaluation
 - The model is trained on the training dataset for one epoch.
-- Evaluation metrics include precision, recall, and categorical accuracy.
+- Evaluation metrics include precision, recall, and AUC score.
 
 ### 5. Making Predictions
 - The trained model can be used to predict toxicity categories for new comment texts.
